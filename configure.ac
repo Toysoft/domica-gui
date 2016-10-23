@@ -275,8 +275,6 @@ lib/python/Plugins/SystemPlugins/Satfinder/meta/Makefile
 lib/python/Plugins/SystemPlugins/SkinSelector/Makefile
 lib/python/Plugins/SystemPlugins/SkinSelector/meta/Makefile
 lib/python/Plugins/SystemPlugins/AnimationSetup/Makefile
-lib/python/Plugins/SystemPlugins/SoftwareManager/Makefile
-lib/python/Plugins/SystemPlugins/SoftwareManager/meta/Makefile
 lib/python/Plugins/SystemPlugins/VideoEnhancement/Makefile
 lib/python/Plugins/SystemPlugins/VideoEnhancement/meta/Makefile
 lib/python/Plugins/SystemPlugins/VideoTune/Makefile
